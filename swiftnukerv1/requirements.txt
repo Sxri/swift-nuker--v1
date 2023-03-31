@@ -3,4 +3,3 @@ discord
 discord.py
 logging
 asyncio
-tk
